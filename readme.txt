@@ -1,1 +1,2 @@
-From branch 1g
+From branch 1
+Added line 2
